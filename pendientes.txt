@@ -1,1 +1,2 @@
 1. pasar al super por las compras
+2. Texto de prueba para git pull
